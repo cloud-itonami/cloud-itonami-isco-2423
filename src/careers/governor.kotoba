@@ -1,7 +1,7 @@
 (ns careers.governor
   "CareersGovernor — the independent safety/traceability layer for the
   ISCO-08 2423 community careers actor (itonami actor pattern,
-  ADR-2607011000 / CLAUDE.md Actors section). Modeled on
+  ADR-2607011000 / AGENTS.md Actors section). Modeled on
   cloud-itonami-isco-4311's bookkeeping.governor. Careers-specific
   twists: a placement must respect the candidate's RECORDED CONSENT
   (dignity is a hard line, not a preference), and the skills match is
